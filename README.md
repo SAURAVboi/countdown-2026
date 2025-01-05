@@ -1,4 +1,4 @@
-# countdown-2026⏰
+# Countdown-2026⏰
 This project is a responsive Countdown Timer for New Year 2026, built using HTML, CSS, and JavaScript. It provides a visually appealing and interactive timer that adjusts automatically for different screen sizes. The goal is to create a sleek, user-friendly countdown experience, perfect for showcasing the excitement leading up to New Year's Eve 2026.
 
 ## Technologies Used:
