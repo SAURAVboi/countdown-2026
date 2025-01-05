@@ -1,0 +1,45 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #000;
+    color: #fff;
+    text-align: center;
+    padding: 50px;
+    margin: 0;
+}
+
+.countdown-container {
+    max-width: 500px;
+    margin: 0 auto;
+    border: 2px solid #fff; /* Adds border around the countdown box */
+    padding: 20px;
+    border-radius: 10px;
+    background-color: rgba(0, 0, 0, 0.8); /* Slight background overlay for contrast */
+}
+
+h1 {
+    font-size: 2.5em;
+    margin-bottom: 20px;
+}
+
+.countdown-timer {
+    display: flex;
+    justify-content: space-around;
+    font-size: 2em;
+}
+
+.timer-box {
+    background-color: rgba(0, 0, 0, 0.8);
+    padding: 20px;
+    border-radius: 10px;
+    width: 80px;
+    border: 1px solid #fff; /* Adds border to each timer box */
+}
+
+.timer-box span {
+    display: block;
+}
+
+.timer-box .label {
+    font-size: 0.8em;
+    margin-top: 5px;
+}
